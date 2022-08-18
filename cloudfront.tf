@@ -1,3 +1,3 @@
 #using cloudfront to cache my files
 
-# origin of s3 bucket
+# origin of s3 bucket to new devt
